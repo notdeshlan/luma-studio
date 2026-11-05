@@ -35,5 +35,6 @@ React · TypeScript · Web Application · Front-End Development · Responsive De
 
 ## Links
 
-- Live app: *add once deployed to GitHub Pages*
-- Code: *add the GitHub repository link*
+- Live app: https://notdeshlan.github.io/luma-studio/
+- Salon dashboard: https://notdeshlan.github.io/luma-studio/#/admin
+- Code: https://github.com/notdeshlan/luma-studio

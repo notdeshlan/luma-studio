@@ -1,5 +1,7 @@
 # Luma Hair Studio
 
+**Live app: [notdeshlan.github.io/luma-studio](https://notdeshlan.github.io/luma-studio/)** · **[Salon dashboard](https://notdeshlan.github.io/luma-studio/#/admin)**
+
 An online booking app for a fictional hair salon in Durban, built with React and TypeScript. Customers see real availability, book in a few taps and manage their own appointments. The salon gets a live dashboard with a day schedule, takings and no-show tracking.
 
 ![Booking flow and dashboard on a phone](screenshots/mobile-mockup.png)
